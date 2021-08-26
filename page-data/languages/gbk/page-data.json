@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-language-jsx",
+    "path": "/languages/gbk/",
+    "result": {"pageContext":{"language":{"iso":"gbk","name":"Gaddi","autonym":null,"country_id":"IN"},"bibles":[{"id":"GBKOGB","title":"The Open Gaddi Bible","title_vernacular":"गाद्‍दी नया नियम","date":"2017","iso":"gbk","language":"Gaddi","countries":null,"links":5}],"resources":[{"iso":"gbk","type":"audio","cover":"","title":"Good News","title_vernacular":null,"description":"","url_source":null,"url":"https://globalrecordings.net/en/program/63724","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""},{"iso":"gbk","type":"audio","cover":"","title":"Words of Life","title_vernacular":null,"description":"","url_source":null,"url":"https://globalrecordings.net/en/program/3531","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""}],"films":[]}},
+    "staticQueryHashes": []}

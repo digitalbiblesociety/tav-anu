@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-language-jsx",
+    "path": "/languages/wsg/",
+    "result": {"pageContext":{"language":{"iso":"wsg","name":"Adilabad Gondi","autonym":null,"country_id":"IN"},"bibles":[{"id":"WSGBSI","title":"Adilabad Gondi Bible Translation","title_vernacular":"Pavitra Vachan","date":"2018","iso":"wsg","language":"Adilabad Gondi","countries":null,"links":1}],"resources":[],"films":[{"iso":"wsg","organization_id":"the-jesus-film-project","title":"JESUS","title_vernacular":null,"description":"Jesus constantly surprises and confounds people, from His miraculous birth to His rise from the grave. Follow His life through excerpts from the Book of Luke, all the miracles, the teachings, and the passion.","url":"https://arc.gt/1r96m?apiSessionId=5f8769541dbec5.68795708","url_youtube":null,"img_thumb":"https://d1wl257kev7hsz.cloudfront.net/cinematics/1_jf-0-0.thumbnail.jpg","img_poster":"https://d1wl257kev7hsz.cloudfront.net/cinematics/Classic_art_HD.jpg","duration_ms":7673754}]}},
+    "staticQueryHashes": []}
